@@ -1,8 +1,8 @@
 # Portifolio
-Portfólio para a matéria de Projeto Integrador IFSP Birigui-SP
+Meu nome é Marçal Antonio Spossar Junior estou no 9º semestre do curso de Engenharia De computação e este é meu portfólio para a matéria de Projeto Integrador 2 IFSP Birigui-SP
 
-Com o Link abaixo é possivel acessar o artigo que estamos Produzindo no Overleaf.
+O artigo sobre o finisgol que estamos Produzindo no Overleaf.
 https://www.overleaf.com/read/fhdvfpwshqqs
 
-Meu perfil do Linkedin com meus certificados e projeto
+Meu perfil do Linkedin com meus certificados e projeto.
 https://www.linkedin.com/in/mar%C3%A7al-spossar-44339a21b/
