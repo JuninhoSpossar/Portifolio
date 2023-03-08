@@ -1,5 +1,5 @@
 # Portifolio
-Meu nome é Marçal Antonio Spossar Junior estou no 9º semestre do curso de Engenharia De computação e este é meu portfólio para a matéria de Projeto Integrador 2 IFSP Birigui-SP
+Meu nome é Marçal Antonio Spossar Junior estou no 9º semestre do curso de Engenharia De computação, tenho 22 anos e este é meu portfólio para a matéria de Projeto Integrador 2 IFSP Birigui-SP
 
 O artigo sobre o finisgol que estamos Produzindo no Overleaf.
 https://www.overleaf.com/read/fhdvfpwshqqs
